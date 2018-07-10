@@ -1,4 +1,4 @@
-body {
+ody {
   font-family: 'Lobster', 'Helvetica Neue', Helvetica, lobster, sans-serif;
   position: relative;
   width: 100%;
@@ -62,7 +62,9 @@ a:focus, a:hover {
 #mainNav .navbar-nav .nav-item {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
-  transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-in- out;
+    padding: 10px;
+    font-family: fantasy;
 }
 
 #mainNav .navbar-nav .nav-item:hover {
